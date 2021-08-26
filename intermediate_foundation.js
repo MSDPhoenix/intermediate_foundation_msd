@@ -175,3 +175,8 @@ x=[4, "Ulysses", 42, false];
 console.log(x);
 y=doubleTrouble(x);
 console.log(y);
+
+
+[arr[1],arr[arr.length-1]] = [arr[arr.length-1],arr[]
+
+// The owls are not what they seem
